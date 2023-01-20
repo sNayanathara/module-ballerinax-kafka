@@ -1,4 +1,4 @@
-# Ballerina Kafka Module
+# Ballerina Kafka Module Fork
 
 
 [![Build](https://github.com/ballerina-platform/module-ballerinax-kafka/actions/workflows/build-timestamped-master.yml/badge.svg)](https://github.com/ballerina-platform/module-ballerinax-kafka/actions/workflows/build-timestamped-master.yml)
